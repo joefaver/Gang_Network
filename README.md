@@ -1,6 +1,6 @@
-# Gang Network
+# GNet
 
-These are some algorithms that are useful to build a gang conflict network
+These are some algorithms that are useful to build a GNet
 
 ## Getting Started
 
